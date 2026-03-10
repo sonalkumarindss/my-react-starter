@@ -1,3 +1,18 @@
+# My React Starter Project
+
+## Project Structure
+src/
+|--- components - React components
+|--- utils - Utility/helper function
+|--- main.jsx - Entry point
+|--- App.jsx - main application component
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
